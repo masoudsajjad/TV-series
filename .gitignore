@@ -5,3 +5,11 @@
 
 #virtual
 venv/
+
+
+#databse
+db.sqlite3
+
+
+# Migiration
+blog/migirations/
