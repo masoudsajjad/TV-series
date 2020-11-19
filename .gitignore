@@ -1,0 +1,7 @@
+#mMac stuff
+.DS_Store
+.idea/
+
+
+#virtual
+venv/
